@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wathub.app/</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://wathub.app/accessibility.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://wathub.app/open-source.html</loc>
+    <lastmod>2026-11-17</lastmod>
+  </url>
+  <url>
+    <loc>https://wathub.app/terms.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/terms-bg.html"/>
+  </url>
+  <url>
+    <loc>https://wathub.app/terms-bg.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/terms-bg.html"/>
+  </url>
+  <url>
+    <loc>https://wathub.app/privacy.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/privacy-bg.html"/>
+  </url>
+  <url>
+    <loc>https://wathub.app/privacy-bg.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/privacy-bg.html"/>
+  </url>
+  <url>
+    <loc>https://wathub.app/guidelines.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/guidelines.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/guidelines-bg.html"/>
+  </url>
+  <url>
+    <loc>https://wathub.app/guidelines-bg.html</loc>
+    <lastmod>2026-11-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wathub.app/guidelines.html"/>
+    <xhtml:link rel="alternate" hreflang="bg" href="https://wathub.app/guidelines-bg.html"/>
+  </url>
+</urlset>
